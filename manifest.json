@@ -1,7 +1,7 @@
 {
   "name": "WeChrome",
   "version": "1.0",
-  "description": "Unblock web version of Chrome",
+  "description": "Unblock web version of WeChat",
   "permissions": [
     "activeTab",
     "webRequest",
