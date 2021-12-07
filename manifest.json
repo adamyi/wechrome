@@ -8,7 +8,8 @@
     "webRequestBlocking",
     "https://wx.qq.com/*",
     "https://web.wechat.com/*",
-    "https://wx2.qq.com/*"
+    "https://wx2.qq.com/*",
+    "https://wx8.qq.com/*"
   ],
 
   "background": {
