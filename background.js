@@ -4,7 +4,7 @@ let wechatHeaders = {
   "client-version": "2.0.0",
 };
 
-let wechatUrls = ["https://wx.qq.com/*", "https://web.wechat.com/*", "https://wx2.qq.com/*"];
+let wechatUrls = ["https://wx.qq.com/*", "https://web.wechat.com/*", "https://wx2.qq.com/*", "https://wx8.qq.com/*"];
 
 chrome.webRequest.onBeforeRequest.addListener(
   function (details) {
